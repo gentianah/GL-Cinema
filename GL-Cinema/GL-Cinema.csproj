@@ -5,4 +5,8 @@
     <RootNamespace>GL_Cinema</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="Properties\ServiceDependencies\etickets-app - Web Deploy\profile.arm.json" />
+  </ItemGroup>
+
 </Project>
